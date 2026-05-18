@@ -10,10 +10,17 @@ This project demonstrates modern cloud-native data lake architecture, SQL analyt
 
 ## Architecture
 
-(Add architecture diagram here)
+![Architecture Diagram](architecture/architecture-diagram.png)
 
 ---
 
+## Screenshots
+
+### Athena Query Results
+![Athena](screenshots/Athena-Query-Editor.png
+
+### Iceberg Metadata
+![Snapshots](screenshots/iceberg-snapshots.png)Athena-Query-Editor.png
 ## Technologies Used
 
 - AWS CloudShell
