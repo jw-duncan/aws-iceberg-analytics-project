@@ -20,7 +20,7 @@ This project demonstrates modern cloud-native data lake architecture, SQL analyt
 ![Athena](screenshots/Athena-Query-Editor.png
 
 ### Iceberg Metadata
-![Snapshots](screenshots/iceberg-snapshots.png)Athena-Query-Editor.png
+![Snapshots](screenshots/Athena-Query-Editor.png)
 ## Technologies Used
 
 - AWS CloudShell
