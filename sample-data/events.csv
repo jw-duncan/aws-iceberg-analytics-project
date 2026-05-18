@@ -1,0 +1,5 @@
+user_id,page,country,device,event_time
+1,home,USA,mobile,2026-05-01 10:00:00
+2,pricing,Canada,desktop,2026-05-01 10:05:00
+3,contact,USA,mobile,2026-05-01 10:10:00
+4,home,UK,tablet,2026-05-01 10:15:00
